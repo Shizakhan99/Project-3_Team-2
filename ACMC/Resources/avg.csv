@@ -1,0 +1,225 @@
+borough,neighborhood,price,service fee,review rate number
+Bronx,Allerton,648,129,3.3
+Bronx,Baychester,524,104,3.52
+Bronx,Belmont,662,132,3.27
+Bronx,Bronxdale,574,114,3.23
+Bronx,Castle Hill,480,96,2.81
+Bronx,City Island,647,129,3.71
+Bronx,Claremont Village,639,127,3.35
+Bronx,Clason Point,589,117,3.52
+Bronx,Co-op City,527,105,4.4
+Bronx,Concourse,677,135,3.07
+Bronx,Concourse Village,535,107,3.36
+Bronx,East Morrisania,764,152,3.0
+Bronx,Eastchester,677,135,3.15
+Bronx,Edenwald,630,126,3.36
+Bronx,Fieldston,696,139,3.36
+Bronx,Fordham,644,129,3.21
+Bronx,Highbridge,681,136,3.09
+Bronx,Hunts Point,608,121,3.14
+Bronx,Kingsbridge,574,114,3.34
+Bronx,Longwood,669,133,3.37
+Bronx,Melrose,574,114,3.57
+Bronx,Morris Heights,742,148,3.2
+Bronx,Morris Park,706,141,3.18
+Bronx,Morrisania,571,114,3.18
+Bronx,Mott Haven,616,123,3.42
+Bronx,Mount Eden,661,132,3.82
+Bronx,Mount Hope,626,125,3.3
+Bronx,North Riverdale,736,147,3.36
+Bronx,Norwood,632,126,3.11
+Bronx,Olinville,684,136,3.09
+Bronx,Parkchester,634,126,3.31
+Bronx,Pelham Bay,728,145,3.33
+Bronx,Pelham Gardens,607,121,3.31
+Bronx,Port Morris,575,115,3.31
+Bronx,Riverdale,741,148,3.29
+Bronx,Schuylerville,659,131,3.51
+Bronx,Soundview,614,122,3.39
+Bronx,Spuyten Duyvil,293,58,2.89
+Bronx,Throgs Neck,680,136,3.41
+Bronx,Tremont,563,112,3.57
+Bronx,Unionport,541,108,3.67
+Bronx,University Heights,618,123,3.36
+Bronx,Van Nest,590,118,3.23
+Bronx,Wakefield,627,125,3.3
+Bronx,West Farms,463,92,4.0
+Bronx,Westchester Square,560,111,3.65
+Bronx,Williamsbridge,628,125,3.52
+Bronx,Woodlawn,587,117,3.31
+Brooklyn,Bath Beach,725,145,3.17
+Brooklyn,Bay Ridge,618,123,3.16
+Brooklyn,Bedford-Stuyvesant,622,124,3.28
+Brooklyn,Bensonhurst,591,118,3.24
+Brooklyn,Bergen Beach,583,116,2.83
+Brooklyn,Boerum Hill,623,124,3.3
+Brooklyn,Borough Park,611,122,3.46
+Brooklyn,Brighton Beach,658,131,3.4
+Brooklyn,Brooklyn Heights,598,119,3.15
+Brooklyn,Brownsville,671,134,3.48
+Brooklyn,Bushwick,632,126,3.27
+Brooklyn,Canarsie,628,125,3.39
+Brooklyn,Carroll Gardens,643,128,3.26
+Brooklyn,Clinton Hill,633,126,3.22
+Brooklyn,Cobble Hill,634,126,3.17
+Brooklyn,Columbia St,716,143,3.39
+Brooklyn,Coney Island,695,139,3.08
+Brooklyn,Crown Heights,618,123,3.28
+Brooklyn,Cypress Hills,628,125,3.32
+Brooklyn,DUMBO,574,114,2.88
+Brooklyn,Downtown Brooklyn,593,118,3.4
+Brooklyn,Dyker Heights,617,123,3.2
+Brooklyn,East Flatbush,642,128,3.3
+Brooklyn,East New York,608,121,3.33
+Brooklyn,Flatbush,650,130,3.23
+Brooklyn,Flatlands,641,128,3.17
+Brooklyn,Fort Greene,613,122,3.18
+Brooklyn,Fort Hamilton,573,114,3.48
+Brooklyn,Gerritsen Beach,694,138,4.33
+Brooklyn,Gowanus,643,128,3.14
+Brooklyn,Gravesend,699,139,3.28
+Brooklyn,Greenpoint,612,122,3.22
+Brooklyn,Kensington,611,122,3.33
+Brooklyn,Manhattan Beach,694,138,2.41
+Brooklyn,Midwood,592,118,3.47
+Brooklyn,Mill Basin,775,155,3.79
+Brooklyn,Navy Yard,490,98,3.43
+Brooklyn,Park Slope,607,121,3.25
+Brooklyn,Prospect Heights,649,129,3.13
+Brooklyn,Prospect-Lefferts Gardens,643,128,3.29
+Brooklyn,Red Hook,631,126,3.11
+Brooklyn,Sea Gate,597,119,3.06
+Brooklyn,Sheepshead Bay,624,124,3.25
+Brooklyn,South Slope,650,130,3.18
+Brooklyn,Sunset Park,630,126,3.17
+Brooklyn,Vinegar Hill,635,127,3.08
+Brooklyn,Williamsburg,625,125,3.24
+Brooklyn,Windsor Terrace,575,115,3.08
+Manhattan,Battery Park City,592,118,3.23
+Manhattan,Chelsea,633,126,3.26
+Manhattan,Chinatown,634,126,3.17
+Manhattan,Civic Center,626,125,3.47
+Manhattan,East Harlem,625,125,3.33
+Manhattan,East Village,618,123,3.27
+Manhattan,Financial District,623,124,3.41
+Manhattan,Flatiron District,614,122,3.28
+Manhattan,Gramercy,617,123,3.31
+Manhattan,Greenwich Village,639,127,3.22
+Manhattan,Harlem,627,125,3.22
+Manhattan,Hell's Kitchen,621,124,3.28
+Manhattan,Inwood,661,132,3.19
+Manhattan,Kips Bay,612,122,3.37
+Manhattan,Little Italy,614,122,3.16
+Manhattan,Lower East Side,624,124,3.31
+Manhattan,Marble Hill,524,104,3.0
+Manhattan,Midtown,610,122,3.31
+Manhattan,Morningside Heights,620,124,3.23
+Manhattan,Murray Hill,618,123,3.36
+Manhattan,NoHo,663,132,3.33
+Manhattan,Nolita,634,126,3.21
+Manhattan,Roosevelt Island,628,125,3.26
+Manhattan,SoHo,636,127,3.28
+Manhattan,Stuyvesant Town,683,136,3.2
+Manhattan,Theater District,635,127,3.4
+Manhattan,Tribeca,631,126,3.15
+Manhattan,Two Bridges,628,125,3.34
+Manhattan,Upper East Side,619,123,3.25
+Manhattan,Upper West Side,616,123,3.24
+Manhattan,Washington Heights,602,120,3.26
+Manhattan,West Village,638,127,3.24
+Queens,Arverne,647,129,3.23
+Queens,Astoria,638,127,3.21
+Queens,Bay Terrace,635,127,3.62
+Queens,Bayside,566,113,3.24
+Queens,Bayswater,591,118,3.49
+Queens,Belle Harbor,600,120,3.16
+Queens,Bellerose,602,120,3.36
+Queens,Breezy Point,309,61,3.11
+Queens,Briarwood,703,140,3.56
+Queens,Cambria Heights,698,139,3.34
+Queens,College Point,669,133,3.44
+Queens,Corona,613,122,3.27
+Queens,Ditmars Steinway,625,125,3.39
+Queens,Douglaston,505,101,3.0
+Queens,East Elmhurst,670,134,3.34
+Queens,Edgemere,631,126,2.9
+Queens,Elmhurst,630,126,3.36
+Queens,Far Rockaway,631,126,3.61
+Queens,Flushing,633,126,3.29
+Queens,Forest Hills,593,118,3.37
+Queens,Fresh Meadows,568,113,2.99
+Queens,Glen Oaks,550,110,4.5
+Queens,Glendale,654,130,3.01
+Queens,Hollis,544,108,3.6
+Queens,Holliswood,546,109,3.4
+Queens,Howard Beach,546,109,3.28
+Queens,Jackson Heights,625,125,3.31
+Queens,Jamaica,623,124,3.37
+Queens,Jamaica Estates,632,126,3.54
+Queens,Jamaica Hills,812,162,2.67
+Queens,Kew Gardens,640,128,3.34
+Queens,Kew Gardens Hills,690,138,3.33
+Queens,Laurelton,581,116,3.21
+Queens,Little Neck,817,163,3.88
+Queens,Long Island City,646,129,3.26
+Queens,Maspeth,598,119,3.34
+Queens,Middle Village,571,114,3.25
+Queens,Neponsit,632,126,3.57
+Queens,Ozone Park,651,130,3.53
+Queens,Queens Village,659,131,3.23
+Queens,Rego Park,633,126,3.31
+Queens,Richmond Hill,558,111,3.36
+Queens,Ridgewood,638,127,3.4
+Queens,Rockaway Beach,644,128,3.34
+Queens,Rosedale,603,120,3.48
+Queens,South Ozone Park,602,120,3.39
+Queens,Springfield Gardens,617,123,3.38
+Queens,St. Albans,612,122,3.44
+Queens,Sunnyside,613,122,3.4
+Queens,Whitestone,583,116,3.0
+Queens,Woodhaven,630,126,3.32
+Queens,Woodside,634,126,3.4
+Staten Island,Arden Heights,804,161,3.78
+Staten Island,Arrochar,626,125,3.48
+Staten Island,"Bay Terrace, Staten Island",429,86,3.5
+Staten Island,Bull's Head,574,114,3.92
+Staten Island,Castleton Corners,417,83,3.38
+Staten Island,"Chelsea, Staten Island",1042,208,2.0
+Staten Island,Clifton,715,143,3.84
+Staten Island,Concord,605,121,3.13
+Staten Island,Dongan Hills,675,135,3.15
+Staten Island,Eltingville,712,142,4.0
+Staten Island,Emerson Hill,443,88,3.2
+Staten Island,Fort Wadsworth,1024,205,2.0
+Staten Island,Graniteville,732,146,2.71
+Staten Island,Grant City,558,111,3.23
+Staten Island,Great Kills,689,137,3.04
+Staten Island,Grymes Hill,674,135,3.88
+Staten Island,Howland Hook,657,131,1.67
+Staten Island,Huguenot,691,138,4.11
+Staten Island,Lighthouse Hill,107,21,2.67
+Staten Island,Mariners Harbor,633,126,3.28
+Staten Island,Midland Beach,796,159,3.29
+Staten Island,New Brighton,696,139,3.2
+Staten Island,New Dorp,1045,209,3.25
+Staten Island,New Dorp Beach,598,119,3.58
+Staten Island,New Springville,538,107,3.33
+Staten Island,Oakwood,480,96,3.86
+Staten Island,Port Richmond,555,111,3.4
+Staten Island,Prince's Bay,477,95,3.12
+Staten Island,Randall Manor,472,94,3.62
+Staten Island,Richmondtown,373,74,3.2
+Staten Island,Rosebank,523,104,3.93
+Staten Island,Rossville,300,60,3.0
+Staten Island,Shore Acres,797,159,3.73
+Staten Island,Silver Lake,578,115,4.0
+Staten Island,South Beach,512,102,3.69
+Staten Island,St. George,650,130,3.44
+Staten Island,Stapleton,699,139,3.59
+Staten Island,Todt Hill,768,153,4.0
+Staten Island,Tompkinsville,609,121,3.37
+Staten Island,Tottenville,657,131,2.38
+Staten Island,West Brighton,635,127,2.95
+Staten Island,Westerleigh,477,95,3.6
+Staten Island,Willowbrook,638,127,2.0
+Staten Island,Woodrow,709,142,4.0
