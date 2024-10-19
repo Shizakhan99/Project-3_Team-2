@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Room Type vs Review Rating</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> <!-- Plotly JS -->
+</head>
+<body>
+    <h1>Count of Listings by Review Rating for Each Room Type</h1>
+
+    <!-- Dropdown to select Neighbourhood Group -->
+    <label for="neighbourhoodGroupSelect">Select Neighbourhood Group:</label>
+    <select id="neighbourhoodGroupSelect">
+        <option value="" disabled selected>Select a Neighbourhood Group</option>
+    </select>
+
+    <!-- Div for Plotly chart -->
+    <div id="myPlotlyChart" style="width:100%;max-width:700px;height:500px;"></div>
+
+    <!-- Include the script after the HTML content -->
+    <script src="static/js/roomvsrating.js"></script>
+</body>
+</html>
