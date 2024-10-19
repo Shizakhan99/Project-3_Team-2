@@ -149,6 +149,27 @@ d3.csv(csvLink).then(function(csvData) {
             };
         },
         onEachFeature: function(feature, layer) {
+            // Set the mouse events to change the map styling.
+            layer.on({
+                // When a user's mouse cursor touches a map feature, the mouseover event calls this function, which makes that feature's opacity change to 90% so that it stands out.
+                mouseover: function(event) {
+                layer = event.target;
+                layer.setStyle({
+                    fillOpacity: 0.9
+                });
+                },
+                // When the cursor no longer hovers over a map feature (that is, when the mouseout event occurs), the feature's opacity reverts back to 50%.
+                mouseout: function(event) {
+                layer = event.target;
+                layer.setStyle({
+                    fillOpacity: 0.5
+                });
+                },
+                // When a feature (neighborhood) is clicked, it enlarges to fit the screen.
+                click: function(event) {
+                myMap.fitBounds(event.target.getBounds());
+                }
+            });
             // Bind a tooltip or popup showing the CSV data
             if (feature.properties.borough || feature.properties.price || feature.properties.serviceFee || feature.properties.reviewRate) {
                 layer.bindPopup(`
@@ -163,3 +184,14 @@ d3.csv(csvLink).then(function(csvData) {
     }).addTo(myMap);
 });
 });
+
+
+
+// NYC Subway Line
+let subwayLink = "../Data/NYC Subway Lines.geojson";
+
+d3.json(subwayLink).then(function(subwayGeoData) {
+    console.log(subwayGeoData);
+    
+    L.geoJson(subwayGeoData).addTo(myMap);
+})

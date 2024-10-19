@@ -23,8 +23,13 @@ function calculateAverageNeighborhoodPrice(data, criteria) {
 */
 
 // Marker radius function based on availability365
-function markerRadius(availability365) {
-    return Math.sqrt(availability365) / 10;
+function markerRadius(reviewRateNumber) {
+    // Set a minimum radius for ratings of 0
+    if (reviewRateNumber === 0) {
+        return 1; // Minimum radius for rating 0
+    } else {
+        return reviewRateNumber * 1.5;
+    }
 }
 
 // Marker color function based on price
@@ -47,7 +52,7 @@ function markerColor(price) {
 // Marker style function with radius based on magnitude and color based on depth
 function markerStyle(feature) {
     return {
-        radius: markerRadius(feature.properties.availability365),
+        radius: markerRadius(feature.properties.reviewRateNumber),
         fillColor: markerColor(feature.properties.price),
         fillOpacity: 0.75,
         color: "black",
