@@ -2,13 +2,15 @@
 
 Team Members: Aaron Chan, Anwer Dolemeri, Sara Joulaei, Shiza Khan
 
-## An overview of the project and its purpose
+## Overview
 
 We chose Airbnb data of New York city with around 20 columns along with the pricing, ratings, reviews, room type, neighborhood group, latitude and longitudes. We are trying to answer the question:
 
 Which Airbnb Neighborhood is the most popular?
 
 To find the answer to this question we performed various analyses and built different visualizations using python, seaborn, javascript using drop-down menus, leaflet, geojson etc. We tried to find correlations between pricing and ratings, ratings and neighborhood, reviews vs rating. We answered the following questions:
+
+### Objectives
 
 1. Neighborhood vs price:Neighborhood Trend Which [neighborhood](http://localhost:8000/index.html) has the highest cost?
 
@@ -49,7 +51,7 @@ We came down to 2 neighborhoods. Manhattan and Brooklyn neighborhoods have a hig
 
 Instructions on how to use and interact with the project
 
-## Key Elements:
+### Key Elements:
 
 1. JavaScript: Used to write the core logic of the application.
 2. D3.js: For importing and processing the CSV data from an external source.
