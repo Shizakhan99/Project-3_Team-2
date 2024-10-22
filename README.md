@@ -64,7 +64,7 @@ Note: Due to Cross-Origin Resource Sharing (CORS) restrictions, directly opening
 
 Database:
 
- **Database Type**: MongoDB -
+ **Database Type**: MongoDB - database code is accessible in database_airbnb.ipynb
 
  **Data Storage**: The data is stored in a MongoDB database. The database is set up locally and can be accessed via the MongoDB connection string: `mongodb://localhost:27017`.
 
