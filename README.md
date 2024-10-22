@@ -1,4 +1,8 @@
-An overview of the project and its purpose
+# New York City Airbnb Listing Project
+
+Team Members: Aaron Chan, Anwer Dolemeri, Sara Joulaei, Shiza Khan
+
+## An overview of the project and its purpose
 
 We chose Airbnb data of New York city with around 20 columns along with the pricing, ratings, reviews, room type, neighborhood group, latitude and longitudes. We are trying to answer the question:
 
@@ -45,7 +49,7 @@ We came down to 2 neighborhoods. Manhattan and Brooklyn neighborhoods have a hig
 
 Instructions on how to use and interact with the project
 
-### Key Elements:
+## Key Elements:
 
 1. JavaScript: Used to write the core logic of the application.
 2. D3.js: For importing and processing the CSV data from an external source.
